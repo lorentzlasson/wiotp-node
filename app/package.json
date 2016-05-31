@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {
+    "ibmiotf": "^0.2.15"
+  }
+}
